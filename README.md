@@ -39,6 +39,7 @@ I mostly live in the Java backend world, but I love building things end-to-end. 
     </tr>
   </table>
 </div>
+
 ---
 
 ### Activity Graph

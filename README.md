@@ -6,14 +6,14 @@ I mostly live in the Java backend world, but I love building things end-to-end. 
 
 ---
 
-### [🔭] What I'm Up To
+### What I'm Up To
 *   Studying **Computer Engineering**.
 *   Sharpening my **backend and DevOps** skills, mainly around the Java ecosystem.
-*   Tinkering with systems-level languages (Rust, OCaml) on the side.
+*   Tinkering with systems-level languages (C/C++).
 
 ---
 
-### [🛠️] Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -25,7 +25,7 @@ I mostly live in the Java backend world, but I love building things end-to-end. 
 
 ---
 
-### [📈] Activity Graph
+### Activity Graph
 ![ElSomeb0dy's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElSomeb0dy&theme=tokyo-night&hide_border=true)
 
 ---

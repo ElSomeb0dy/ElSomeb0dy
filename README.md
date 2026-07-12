@@ -27,6 +27,15 @@ I mostly live in the Java backend world, but I love building things end-to-end. 
 
 ---
 
+### [ 📊 ] Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElSomeb0dy&show_icons=true&theme=tokyo-night" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElSomeb0dy&layout=compact&theme=tokyo-night" alt="Top Languages" />
+</div>
+
+---
+
 ### Activity Graph
 ![ElSomeb0dy's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElSomeb0dy&theme=tokyo-night&hide_border=true)
 

@@ -1,6 +1,8 @@
 # Hello, I'm ElSomeb0dy
 
-> **Computer Engineering Student | Full-Stack Developer | DevOps Enthusiast**
+> Computer Engineering Student | Full-Stack Developer | DevOps Enthusiast
+
+---
 
 I mostly live in the Java backend world, but I love building things end-to-end. My sweet spot is taking a project through its entire lifecycle: designing the API, wiring up the database, containerizing the application, and making sure it actually runs anywhere.
 
